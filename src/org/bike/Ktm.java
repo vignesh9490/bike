@@ -29,6 +29,8 @@ public class Ktm implements Bike {
 		System.out.println("153cc");
 
 		System.out.println("350cc");
+
+
 	}
 	@Override
 	public void edition() {
