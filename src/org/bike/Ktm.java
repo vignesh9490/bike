@@ -21,14 +21,14 @@ public class Ktm implements Bike {
 	@Override
 	public void edition1() {
 	 System.out.println("first edition");
-     System.out.println("second edition");
+     System.out.println("fourth edition");
 		
 	}
 	@Override
 	public void cc() {
 		System.out.println("153cc");
 
-		System.out.println("160cc");
+		System.out.println("220cc");
 	}
 	@Override
 	public void edition() {
