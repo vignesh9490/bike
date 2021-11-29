@@ -4,4 +4,5 @@ public interface Bike {
 	void cost();
 	
 	void speed();
+	void edition();
 }
