@@ -21,7 +21,7 @@ public class Ktm implements Bike {
 	@Override
 	public void edition() {
 	 System.out.println("first edition");
-
+     System.out.println("second edition");
 		
 	}
 	@Override
