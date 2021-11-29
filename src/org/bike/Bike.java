@@ -4,6 +4,13 @@ public interface Bike {
 	void cost();
 	
 	void speed();
-	void cc();
+
 	void edition();
+
+	void cc();
+
+	void edition1();
+
+
+
 }
