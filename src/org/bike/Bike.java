@@ -9,4 +9,8 @@ public interface Bike {
 
 	void cc();
 
+	void edition();
+
+
+
 }
