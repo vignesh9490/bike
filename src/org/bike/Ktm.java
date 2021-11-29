@@ -16,7 +16,7 @@ public class Ktm implements Bike {
 		a.cost();
 		a.speed();
 		a.cc();
-		a.edition();
+		a.edition1();
 	}
 	@Override
 	public void edition1() {
