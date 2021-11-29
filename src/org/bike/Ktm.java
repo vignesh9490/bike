@@ -19,7 +19,7 @@ public class Ktm implements Bike {
 		a.edition();
 	}
 	@Override
-	public void edition() {
+	public void edition1() {
 	 System.out.println("first edition");
      System.out.println("second edition");
 		
@@ -27,6 +27,13 @@ public class Ktm implements Bike {
 	@Override
 	public void cc() {
 		System.out.println("153cc");
+
+		System.out.println("160cc");
+	}
+	@Override
+	public void edition() {
+		System.out.println("third edition");
+
 
 		
 	}
