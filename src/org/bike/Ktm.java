@@ -16,10 +16,18 @@ public class Ktm implements Bike {
 		a.cost();
 		a.speed();
 		a.cc();
+		a.edition();
+	}
+	@Override
+	public void edition() {
+	 System.out.println("first edition");
+
+		
 	}
 	@Override
 	public void cc() {
 		System.out.println("153cc");
+
 		
 	}
 
