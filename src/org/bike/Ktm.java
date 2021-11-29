@@ -16,12 +16,12 @@ public class Ktm implements Bike {
 		a.cost();
 		a.speed();
 		a.cc();
-		a.edition();
+		a.edition1();
 	}
 	@Override
-	public void edition() {
+	public void edition1() {
 	 System.out.println("first edition");
-     System.out.println("second edition");
+     System.out.println("fourth edition");
 		
 	}
 	@Override
