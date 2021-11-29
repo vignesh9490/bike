@@ -5,4 +5,5 @@ public interface Bike {
 	
 	void speed();
 	void cc();
+	void edition();
 }
